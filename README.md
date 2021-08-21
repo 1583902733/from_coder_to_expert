@@ -1,4 +1,4 @@
-### 2019年最新总结，从程序员到CTO，从专业走向卓越，企业内部分享文档pdf与PPT整理
+### 2021年最新总结，从程序员到CTO，从专业走向卓越，企业内部分享文档pdf与PPT整理
 
 ### 整理大牛分享文档如下，持续更新一线开发架构，技术文档
 ##### 网易蜂巢公有容器云架构之路
@@ -78,6 +78,9 @@
 ##### 互联网对传统企业应用架构
 ##### 基于Kafka-Spark Streaming的数据处理系统及测试
 ##### 交互式直播推流编码器的设计
+##### Elasticsearch实时高效聚合计算应用实践
+##### 腾讯Elasticsearch大规模实践
+##### 阿里云Elasticsearch架构解析与性能优化实践
 ##### Go在区块链的发展和演进
 ##### NSQ-重塑之路
 ##### Aliyun ApasaDB Go 微服务架构
@@ -128,7 +131,14 @@
 <br/>
 
 
-#### 获取大牛视频资料，专家架构交流3群：783153655
-#### 若群已满，添加QQ：469254771 , 备注github
-#### 关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料
-![image](https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg)
+<h3 >联系我们</h3> 
+
+---
+
+**每天晚上8点免费技术分享直播，扫码即可加入，小姐姐给你发每天的直播链接，备注github文档**
+**直播内容：C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点技术分享**
+
+![贝贝二维码](https://user-images.githubusercontent.com/87457873/128681718-86f959ba-7a9a-4968-b107-3d3cdb939930.png)
+
+
+
